@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrithub.com
+port=29418
+project=mstutils
+defaultbranch=master
