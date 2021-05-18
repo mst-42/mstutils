@@ -1,1 +1,1 @@
-[{"model": "xplanurls.xplansiteinstancemodel", "fields": {"xplan_site": ["manup_integrationtest_e"], "hostname": "", "instanceid": "", "ooversion": "", "osversion": "", "processname": "", "websrv_port": null, "is_singleton": false, "is_batch": false, "is_web": false}}]
+[{"model": "xplanurls.xplansiteinstancemodel", "fields": {"xplan_site": ["manup_integrationtest_c"], "hostname": "", "instanceid": "", "ooversion": "", "osversion": "", "processname": "", "websrv_port": null, "is_singleton": false, "is_batch": false, "is_web": false}}]
